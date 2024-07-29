@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>Lettre Assurance Étudiant Juillet 2024</mj-title>
+    <mj-title>Lettre Assurance Étudiant Août 2024</mj-title>
     <mj-raw>
       <meta name='color-scheme' content='light'/>
       <meta name='supported-color-schemes' content='light'/>
@@ -53,7 +53,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0">
       <mj-column width="92%" padding="10px">
-        <mj-text padding="0" align="left" font-size="16px" font-weight="300" line-height="20px" color="#2D3748"><span style="font-weight:700;text-transform:uppercase;">news ecosup assurance</span> | Juillet 2024        </mj-text>
+        <mj-text padding="0" align="left" font-size="16px" font-weight="300" line-height="20px" color="#2D3748"><span style="font-weight:700;text-transform:uppercase;">news ecosup assurance</span> | Août 2024        </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding="20px 32px">
