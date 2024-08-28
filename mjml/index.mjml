@@ -48,6 +48,7 @@
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0e8e9b9c597806fa9e9.gif" href="https://www.facebook.com/EcosupAssurance" alt="icon Facebook"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f123605bbe5926c9b7.gif" href="https://www.instagram.com/ecosup.campus/" alt="icon Instagram"></mj-social-element>
           <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/65e9a0f823605bbe5926c9b9.gif" href="https://linkedin.com/company/ecosup-campus" alt="icon Linkedin"></mj-social-element>
+          <mj-social-element src="https://img.mailinblue.com/3403292/images/content_library/original/660d60657236a3846ef846ba.png" href="https://www.youtube.com/@EcoSupAssurance" alt="icon Youtube">    </mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
@@ -58,7 +59,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/ryGBDvd/news-Bandeau072024.jpg" alt="Tente éclairée et isolée en pleine nature avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/Gkm0KKB/news-Bandeau082024.jpg" alt="Tente éclairée et isolée en pleine nature avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
@@ -81,10 +82,76 @@
     <mj-section background-color="#2D3748" padding="15px">
       <mj-column width="85%">
         <mj-social padding="0" font-size="16px" line-height="20px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
-          <mj-social-element src="https://i.ibb.co/xYKFMzh/logoESA.jpg">Rentrée des BACHELOR Chargé de Clientèles en Assurance et Banque : <span style="color:#ffffff;">Mercredi 4 septembre 2024 à 10h</span></mj-social-element>
-          <mj-social-element src="https://i.ibb.co/xYKFMzh/logoESA.jpg">Rentrée des BTS : <span style="color:#ffffff;">Lundi 9 septembre 2024 à 14h</span></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png">Rentrée des BACHELOR Chargé de Clientèles en Assurance et Banque : <span style="color:#ffffff;">Mercredi 4 septembre 2024 à 10h</span></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png">Rentrée des BTS : <span style="color:#ffffff;">Lundi 9 septembre 2024 à 14h</span></mj-social-element>
         </mj-social>
       </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Actualités Assurance</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Avec Ecosup, la Région Hauts de France et l'OPCO... bénéficiez des avantages réservés aux apprrentis</mj-text>
+      </mj-column>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900">Quentin RINGOT</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Gestionnaire de patrimoine Le Conservateur</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de techniques commerciales et de fiscalité</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900">Nicolas BARBIER</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Gestionnaire de patrimoine Banque CIC Exigence</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de techniques bancaires et financement - BTS et BACHELOR</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900">Séverine RUFIN</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Performance technique des réseaux Groupe Covéa (MMA-MAAF-GMF)</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeure  d'assurance IARD - et approche globale</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/NLHkQbr/alexy082024.jpg" alt="inter.name"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900">Alexy RUBAN</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Assistant directeur artistique Lemon &amp; Pepper</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de digital et réseaux sociaux</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900">Yves SION</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Avocat au barreau de Lille cabinet RAXIS LOGOS</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Intervenant conférence Droit social</mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-group width="100%">
+        <mj-column width="30%" padding="8px">
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
+        </mj-column>
+        <mj-column width="70%" vertical-align="middle" padding="8px">
+          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900">Barbara CLOMBE</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Responsable département cabinet DIOT HAUTS-DE-FRANCE</mj-text>
+          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeure de Gestion de sinistre et assurance</mj-text>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
@@ -99,68 +166,6 @@
           <p style="margin:10px 0;">- La mise à disposition gratuite d'un ordinateur portable pour la durée de tes études grâce à l'OPCO.</p>
         </mj-text>
       </mj-column>
-    </mj-section>
-    <mj-section padding="0 20px" background-color="#ffffff">
-      <mj-group width="100%">
-        <mj-column width="30%">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
-        </mj-column>
-        <mj-column width="70%" vertical-align="middle">
-          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="700">Quentin RINGOT</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Gestionnaire de patrimoine Le Conservateur</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de techniques commerciales et de fiscalité</mj-text>
-        </mj-column>
-      </mj-group>
-      <mj-group width="100%">
-        <mj-column width="30%">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
-        </mj-column>
-        <mj-column width="70%" vertical-align="middle">
-          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="700">Nicolas BARBIER</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Gestionnaire de patrimoine Banque CIC Exigence</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de techniques bancaires et financement - BTS et BACHELOR</mj-text>
-        </mj-column>
-      </mj-group>
-      <mj-group width="100%">
-        <mj-column width="30%">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
-        </mj-column>
-        <mj-column width="70%" vertical-align="middle">
-          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="700">Séverine RUFIN</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Performance technique des réseaux Groupe Covéa (MMA-MAAF-GMF)</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeure  d'assurance IARD - et approche globale</mj-text>
-        </mj-column>
-      </mj-group>
-      <mj-group width="100%">
-        <mj-column width="30%">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
-        </mj-column>
-        <mj-column width="70%" vertical-align="middle">
-          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="700">Alexy RUBAN</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Assistant directeur artistique Lemon &amp; Pepper</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeur de digital et réseaux sociaux</mj-text>
-        </mj-column>
-      </mj-group>
-      <mj-group width="100%">
-        <mj-column width="30%">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
-        </mj-column>
-        <mj-column width="70%" vertical-align="middle">
-          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="700">Yves SION</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Avocat au barreau de Lille cabinet RAXIS LOGOS</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Intervenant conférence Droit social</mj-text>
-        </mj-column>
-      </mj-group>
-      <mj-group width="100%">
-        <mj-column width="30%">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png" alt="inter.name"/>
-        </mj-column>
-        <mj-column width="70%" vertical-align="middle">
-          <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="700">Barbara CLOMBE</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600">Responsable département cabinet DIOT HAUTS-DE-FRANCE</mj-text>
-          <mj-text align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic">Professeure de Gestion de sinistre et assurance</mj-text>
-        </mj-column>
-      </mj-group>
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">

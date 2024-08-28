@@ -20,7 +20,7 @@
             'prof' : 'Professeure  d\'assurance IARD - et approche globale'
         },
         {
-           'photo' : 'https://i.ibb.co/6yDxj9g/material-symbols-info-outline.png',
+           'photo' : 'https://i.ibb.co/NLHkQbr/alexy082024.jpg',
             'name' : 'Alexy RUBAN',
             'titre' : 'Assistant directeur artistique Lemon & Pepper',
             'prof' : 'Professeur de digital et réseaux sociaux'
@@ -39,13 +39,16 @@
         }
     ]
 
-mj-section(padding="0 20px" background-color="#ffffff")
+mj-section(padding="20px" background-color="#ffffff")
+    mj-column(width="100%")
+        mj-text(padding='0' align='left' font-size='14px' font-weight='900' color='#944694' line-height='18px' text-transform='uppercase') Actualités Assurance
+        mj-text(padding='5px 0 0 0' align='left' font-size='20px' font-weight='700' line-height='24px' color='#684092') Avec Ecosup, la Région Hauts de France et l'OPCO... bénéficiez des avantages réservés aux apprrentis
     each inter in intersList
         mj-group(width="100%")
-            mj-column(width="30%")
+            mj-column(width="30%" padding="8px")
                 mj-image(width="120px" padding="0px" src= inter.photo alt="inter.name")/
-            mj-column(width="70%" vertical-align="middle")
-                mj-text(align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="700")= inter.name
+            mj-column(width="70%" vertical-align="middle" padding="8px")
+                mj-text(align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900")= inter.name
                 mj-text(align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600")= inter.titre 
                 mj-text(align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="300" font-style="italic")= inter.prof
     
