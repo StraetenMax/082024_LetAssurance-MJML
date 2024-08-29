@@ -15,11 +15,6 @@
       <mj-text font-size="16px" font-weight="300" line-height="20px" color="#2D3748"></mj-text>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
-    <mj-style>
-      .hover:hover td, .hover:hover a{
-          background-color:#270938 !important;
-      }
-    </mj-style>
   </mj-head>
   <mj-body background-color="#fcfcfc">
     <mj-section background-color="#270938" padding="0">
@@ -66,24 +61,24 @@
       <mj-column width="88%"> 
         <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
         <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="20px" font-weight="700" line-height="24px" color="#684092">Une rentrée 2024 riche en perspective !</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Chers étudiants,</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">C'est avec un immense plaisir que nous vous accueillons pour cette nouvelle année académique 2024-2025 au sein d'Ecosup Campus. Nous espérons que vous avez passé un été reposant et que vous êtes prêts à relever de nouveaux défis.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Cette année, nous avons conçu un programme pédagogiquequi allie tradition et innovation. Vous découvrirez :
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Chers étudiants,</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">C'est avec un immense plaisir que nous vous accueillons pour cette nouvelle année académique 2&zwnj;024-2025 au sein d'Ecosup Campus. Nous espérons que vous avez passé un été reposant et que vous êtes prêts à relever de nouveaux défis.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Cette année, nous avons conçu un programme pédagogique qui allie tradition et innovation. Vous découvrirez :
           <ul align="left" style="list-style-type:disc; padding:0 0 0 20px; margin:10px 0;">
             <li style="text-align: left; margin:0 0 10px;"><span style="font-weight:700;">De nouveaux projets passionnants :</span> des partenariats avec des entreprises, des conférences et ateliers afin d'allier théorie et pratique !</li>
             <li style="text-align: left; margin:0 0 10px;"><span style="font-weight:700;">Des outils numériques performants :</span> nous avons mis en place de nouvelles plateformes en ligne pour faciliter vos apprentissages et vos échanges avec vos enseignants.</li>
             <li style="text-align: left; margin:0;"><span style="font-weight:700;">Un accompagnement personnalisé :</span> comme toujours notre équipe pédagogique est à votre écoute pour répondre à vos questions et vous aider à réussir.</li>
           </ul>
         </mj-text>
-        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je suis personnellement heureux de vous retrouver pour cette année et je vous assure mon engagement total pour faire de votre cursus</mj-text>
-        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">À très vite !</mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">Je suis personnellement heureux de vous retrouver pour cette année et je vous assure mon engagement total pour faire de votre cursus une réussite professionnelle et personnelle.</mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px" color="#2D3748">À très vite !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#2D3748" padding="15px">
       <mj-column width="85%">
         <mj-social padding="0" font-size="16px" line-height="20px" font-weight="500" icon-size="40px" inner-padding="5px 15px 5px 0px" color="#BA4995" mode="vertical">
-          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png">Rentrée des BACHELOR Chargé de Clientèles en Assurance et Banque : <span style="color:#ffffff;">Mercredi 4 septembre 2024 à 10h</span></mj-social-element>
-          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png">Rentrée des BTS : <span style="color:#ffffff;">Lundi 9 septembre 2024 à 14h</span></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier">Rentrée des BACHELOR Chargé de Clientèles en Assurance et Banque : <span style="color:#ffffff;">Mercredi 4&zwnj; s&zwnj;eptembre 2024 à 10h</span></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/Msc2sh7/calendrier.png" alt="icon calendrier">Rentrée des BTS Assurance : <span style="color:#ffffff;">Lundi 9&zwnj; s&zwnj;eptembre 2024 à 14h</span></mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
@@ -91,7 +86,7 @@
       <mj-column width="100%">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en Apprentissage</mj-text>
         <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Formation réussie rime avec exigence et qualité des équipes !</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400">Nous sommes heureux de pouvoir vous présenter une partie de notre casting pour cette année 2024-2025</mj-text>
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400">Nous sommes heureux de vous présenter une partie de notre casting pour cette année 2&zwnj;024-2025.</mj-text>
       </mj-column>
       <mj-group width="100%">
         <mj-column width="30%" padding="8px">
@@ -159,8 +154,8 @@
         <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/dt7hhhf/news-A082024.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Pratique Apprenti</mj-text>
-        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Avec Ecosup, la Région Hauts de France et l'OPCO... bénéficiez des avantages réservés aux apprrentis</mj-text>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Pratique</mj-text>
+        <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Avec Ecosup, la Région Hauts de France et l'OPCO... bénéficiez des avantages réservés aux apprentis</mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
           <p style="margin:10px 0;"><span style="font-weight:700;">- Une allocation de 200 €</span> pour vous équiper et d'autres aides disponibles pour les transports, le logement ou la restauration grâce à la <a style="color:#2D3748;" href="https://generation.hautsdefrance.fr/la-carte-generation-hdf-cest-a-partir-du-2-juillet/">carte Génération #HDF</a>.</p>
           <p style="margin:10px 0;"><span style="font-weight:700;">- Une aide de 500 €</span> pour passer votre permis de conduire grâce à la <a style="color:#2D3748;" href="https://www.hautsdefrance.fr/aide-au-permis-evolue-2024/">région Hauts-de-France</a>. </p>
