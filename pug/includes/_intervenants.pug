@@ -39,7 +39,7 @@
         }
     ]
 
-mj-section(padding="40px 20px 20px 20px" background-color="#ffffff")
+mj-section(padding="20px" background-color="#ffffff")
     mj-column(width="100%")
         mj-text(padding='0' align='left' font-size='14px' font-weight='900' color='#944694' line-height='18px' text-transform='uppercase') Formation en Apprentissage
         mj-text(padding='5px 0 0 0' align='left' font-size='20px' font-weight='700' line-height='24px' color='#684092') Formation réussie rime avec exigence et qualité des équipes !
@@ -47,7 +47,7 @@ mj-section(padding="40px 20px 20px 20px" background-color="#ffffff")
     each inter in intersList
         mj-group(width="100%")
             mj-column(width="30%" padding="8px")
-                mj-image(width="120px" padding="0px" src= inter.photo alt="inter.name")/
+                mj-image(width="120px" padding="0px" src= inter.photo alt= inter.name)/
             mj-column(width="70%" vertical-align="middle" padding="8px")
                 mj-text(align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092")= inter.name
                 mj-text(align="left" padding="0px" font-family="Arial" font-size="14px" line-height="20px" font-weight="600" color="#944694")= inter.titre 

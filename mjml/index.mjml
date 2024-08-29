@@ -59,7 +59,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/Gkm0KKB/news-Bandeau082024.jpg" alt="Tente éclairée et isolée en pleine nature avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/Gkm0KKB/news-Bandeau082024.jpg" alt="Groupe d'étudiants entrain de discuter avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
@@ -87,7 +87,7 @@
         </mj-social>
       </mj-column>
     </mj-section>
-    <mj-section padding="40px 20px 20px 20px" background-color="#ffffff">
+    <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="100%">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en Apprentissage</mj-text>
         <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Formation réussie rime avec exigence et qualité des équipes !</mj-text>
@@ -95,7 +95,7 @@
       </mj-column>
       <mj-group width="100%">
         <mj-column width="30%" padding="8px">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/qC6WP0t/quentin.png" alt="inter.name"/>
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/qC6WP0t/quentin.png" alt="Quentin RINGOT"/>
         </mj-column>
         <mj-column width="70%" vertical-align="middle" padding="8px">
           <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Quentin RINGOT</mj-text>
@@ -105,7 +105,7 @@
       </mj-group>
       <mj-group width="100%">
         <mj-column width="30%" padding="8px">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/s5cWGG1/nicolas.png" alt="inter.name"/>
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/s5cWGG1/nicolas.png" alt="Nicolas BARBIER"/>
         </mj-column>
         <mj-column width="70%" vertical-align="middle" padding="8px">
           <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Nicolas BARBIER</mj-text>
@@ -115,7 +115,7 @@
       </mj-group>
       <mj-group width="100%">
         <mj-column width="30%" padding="8px">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/xCVxSdR/severine.png" alt="inter.name"/>
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/xCVxSdR/severine.png" alt="Séverine RUFIN"/>
         </mj-column>
         <mj-column width="70%" vertical-align="middle" padding="8px">
           <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Séverine RUFIN</mj-text>
@@ -125,7 +125,7 @@
       </mj-group>
       <mj-group width="100%">
         <mj-column width="30%" padding="8px">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/gVhw0N8/alexy.png" alt="inter.name"/>
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/gVhw0N8/alexy.png" alt="Alexy RUBAN"/>
         </mj-column>
         <mj-column width="70%" vertical-align="middle" padding="8px">
           <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Alexy RUBAN</mj-text>
@@ -135,7 +135,7 @@
       </mj-group>
       <mj-group width="100%">
         <mj-column width="30%" padding="8px">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/FhndDsC/yves.png" alt="inter.name"/>
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/FhndDsC/yves.png" alt="Yves SION"/>
         </mj-column>
         <mj-column width="70%" vertical-align="middle" padding="8px">
           <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Yves SION</mj-text>
@@ -145,7 +145,7 @@
       </mj-group>
       <mj-group width="100%">
         <mj-column width="30%" padding="8px">
-          <mj-image width="120px" padding="0px" src="https://i.ibb.co/9pnK2zQ/barbara.png" alt="inter.name"/>
+          <mj-image width="120px" padding="0px" src="https://i.ibb.co/9pnK2zQ/barbara.png" alt="Barbara CLOMBE"/>
         </mj-column>
         <mj-column width="70%" vertical-align="middle" padding="8px">
           <mj-text align="left" padding="10px 0px 0px 0px" font-family="Arial" font-size="16px" line-height="20px" font-weight="900" color="#684092">Barbara CLOMBE</mj-text>
@@ -154,7 +154,7 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
+    <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
         <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/dt7hhhf/news-A082024.jpg" alt="Affiche du lancement pour la carte Génération Hauts de France destinée aux apprentis"/>
       </mj-column>
@@ -170,7 +170,7 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/BtQZ8Nk/news082024.jpg" alt="Étudiante ayant opté pour la formation en alterrnance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/q1JFxSZ/news02-072024.jpg" alt="Étudiants entrain de préparer leur rentrée universitaire"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en apprentissage</mj-text>
